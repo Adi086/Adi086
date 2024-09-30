@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and game-development
 - 🌱 I’m currently learning python and unity game engine
 - 💞️ I’m looking to collaborate on game development
-- 📫 How to reach me discord- Adiboi.. #7353
+- 📫 How to reach me discord-unavailable_x_x
 
 <!---
 Adi086/Adi086 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
